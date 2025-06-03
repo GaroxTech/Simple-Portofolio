@@ -15,7 +15,7 @@
 ## 🧰 Teknologi
 
 - HTML5
-- [Tailwind CSS](https://tailwindcss.com/)
+- CSS
 
 ---
 ## 🚀 Cara Menjalankan
